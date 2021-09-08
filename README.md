@@ -1,2 +1,2 @@
-# Gestion-de-vote
-projet de gestion de vote électronique en php/mysql
+# GestionVote
+gestion de vote électronique avec PHP POO 
